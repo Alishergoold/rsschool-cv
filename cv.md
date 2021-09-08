@@ -1,8 +1,6 @@
-<!--https://github.com/Alishergoold/rsschool-cv.git-->
+## Rakhimov Alisher
 
 **Junior front-end developer**
-
-## Rakhimov Alisher
 
 ## Contacts
 
@@ -13,13 +11,13 @@
 
 ## About Me
 
-### I have been learning to be a front-end developer for more than a year now. I am interested in learning new things about IT, I do not have experience with it yet, but I have done a few small projects on my own. I do not drink alcohol and do not smoke. In the future I would like to become a theam leader in IT companies.
+I have been learning to be a front-end developer for more than a year now. I am interested in learning new things about IT, I do not have experience with it yet, but I have done a few small projects on my own. I do not drink alcohol and do not smoke. In the future I would like to become a theam leader in IT companies.
 
 ## Skills
 
-### HTML, CSS, Bootstrap, JavaScript, ReactJs.
+HTML, CSS, Bootstrap, JavaScript, ReactJs.
 
-### Metodologies: BEM.
+Metodologies: BEM.
 
 ## Example my code.
 
@@ -57,14 +55,14 @@ get(api) ```
 
 ## Education
 
-### Online cource PDP ReactJs in Tashkent.
+Online cource PDP ReactJs in Tashkent.
 
-### Online mentor 5-month Javascript and ReactJs.
+Online mentor 5-month Javascript and ReactJs.
 
-### Selfstudy on youtube, udemy, codeacademy on front-end.
+Selfstudy on youtube, udemy, codeacademy on front-end.
 
 ## Language
 
-### English level A2 - Elementry.
+English level A2 - Elementry.
 
-### Russian I speak Russian fluently.
+Russian I speak Russian fluently.
