@@ -1,1 +1,1 @@
-git@github.com:Alishergoold/rsschool-cv.git
+https://github.com/Alishergoold/rsschool-cv.git
