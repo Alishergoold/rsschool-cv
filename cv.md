@@ -1,4 +1,4 @@
-https://github.com/Alishergoold/rsschool-cv.git
+<!--https://github.com/Alishergoold/rsschool-cv.git-->
 
 **Junior front-end developer**
 
@@ -6,9 +6,9 @@ https://github.com/Alishergoold/rsschool-cv.git
 
 ## Contacts
 
-- Email: [Alisher Rakhimov] (alishergoold1989@gmail.com)
-- Telegram: [@Alishergoold] (https://www.t.me/Alishergoold)
-- Github: [Github] (https://www.github.com/Alishergoold)
+- Email: [Alisher Rakhimov](alishergoold1989@gmail.com)
+- Telegram: [@Alishergoold](https://www.t.me/Alishergoold)
+- Github: [Github](https://www.github.com/Alishergoold)
 - Discord UserName: Alisher(alishergoold)
 
 ## About Me
@@ -21,22 +21,24 @@ https://github.com/Alishergoold/rsschool-cv.git
 
 ### Metodologies: BEM.
 
-` function add(num){
+## Example my code.
+
+````function add(num){
 console.log('Num is', num);
 if(num<10){
 add(num + 1)
 }
 }
-add(1)
+add(1)```
 
-setTimeout(function() {
+```setTimeout(function() {
 console.log('Hello function')
 for(var i = 0; i<10; i++){
 console.log(i, "World")
 }
-}, 1000)
+}, 1000)```
 
-async function get(url) {
+```async function get(url) {
 fetch(url)
 .then((res) => res.json())
 .then((res) => {
@@ -49,7 +51,9 @@ console.log(text.innerHTML = `${names}`);
 .catch((err) => console.log(err))
 .finally(() => console.log("FINALLY"))
 }
-get(api) `
+get(api) ```
+
+````
 
 ## Education
 
