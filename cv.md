@@ -2,26 +2,26 @@ https://github.com/Alishergoold/rsschool-cv.git
 
 **Junior front-end developer**
 
-##Rakhimov Alisher
+## Rakhimov Alisher
 
-##Contacts
+## Contacts
 
 - Email: [Alisher Rakhimov] (alishergoold1989@gmail.com)
 - Telegram: [@Alishergoold] (https://www.t.me/Alishergoold)
 - Github: [Github] (https://www.github.com/Alishergoold)
 - Discord UserName: Alisher(alishergoold)
 
-##About Me
+## About Me
 
-###I have been learning to be a front-end developer for more than a year now. I am interested in learning new things about IT, I do not have experience with it yet, but I have done a few small projects on my own. I do not drink alcohol and do not smoke. In the future I would like to become a theam leader in IT companies.
+### I have been learning to be a front-end developer for more than a year now. I am interested in learning new things about IT, I do not have experience with it yet, but I have done a few small projects on my own. I do not drink alcohol and do not smoke. In the future I would like to become a theam leader in IT companies.
 
-##Skills
+## Skills
 
-###HTML, CSS, Bootstrap, JavaScript, ReactJs.
-###Metodologies: BEM.
+### HTML, CSS, Bootstrap, JavaScript, ReactJs.
 
-`
-function add(num){
+### Metodologies: BEM.
+
+` function add(num){
 console.log('Num is', num);
 if(num<10){
 add(num + 1)
@@ -49,16 +49,18 @@ console.log(text.innerHTML = `${names}`);
 .catch((err) => console.log(err))
 .finally(() => console.log("FINALLY"))
 }
-get(api)
+get(api) `
 
-`
-##Education
+## Education
 
-###Online cource PDP ReactJs in Tashkent.
-###Online mentor 5-month Javascript and ReactJs.
-###Selfstudy on youtube, udemy, codeacademy on front-end.
+### Online cource PDP ReactJs in Tashkent.
 
-##Language
+### Online mentor 5-month Javascript and ReactJs.
 
-###English level A2 - Elementry.
-###Russian I speak Russian fluently.
+### Selfstudy on youtube, udemy, codeacademy on front-end.
+
+## Language
+
+### English level A2 - Elementry.
+
+### Russian I speak Russian fluently.
