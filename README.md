@@ -1,1 +1,1 @@
-https://github.com/Alishergoold/rsschool-cv/index.html
+https://github.com/Alishergoold/rsschool-cv/cv.git
