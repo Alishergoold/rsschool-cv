@@ -4,10 +4,10 @@
 
 ## Contacts
 
-- Email: [Alisher Rakhimov](alishergoold1989@gmail.com)
-- Telegram: [@Alishergoold](https://www.t.me/Alishergoold)
-- Github: [Github](https://www.github.com/Alishergoold)
-- Discord UserName: Alisher(alishergoold)
+    - Email: [Alisher Rakhimov](alishergoold1989@gmail.com)
+    - Telegram: [@Alishergoold](https://www.t.me/Alishergoold)
+    - Github: [Github](https://www.github.com/Alishergoold)
+    - Discord UserName: Alisher(alishergoold)
 
 ## About Me
 
@@ -15,54 +15,54 @@ I have been learning to be a front-end developer for more than a year now. I am 
 
 ## Skills
 
-HTML, CSS, Bootstrap, JavaScript, ReactJs.
+    HTML, CSS, Bootstrap, JavaScript, ReactJs.
 
-Metodologies: BEM.
+    Metodologies: BEM.
 
 ## Example my code.
 
-````function add(num){
-console.log('Num is', num);
-if(num<10){
-add(num + 1)
-}
-}
-add(1)```
+    ````function add(num){
+    console.log('Num is', num);
+    if(num<10){
+    add(num + 1)
+    }
+    }
+    add(1)```
 
-```setTimeout(function() {
-console.log('Hello function')
-for(var i = 0; i<10; i++){
-console.log(i, "World")
-}
-}, 1000)```
+    ```setTimeout(function() {
+    console.log('Hello function')
+    for(var i = 0; i<10; i++){
+    console.log(i, "World")
+    }
+    }, 1000)```
 
-```async function get(url) {
-fetch(url)
-.then((res) => res.json())
-.then((res) => {
-const ids = res.reduce((sum,i)=>[...sum, i.name], []);
-localStorage.setItem("id", JSON.stringify(ids))
-let names = localStorage.getItem('id')
-console.log(text.innerHTML = `${names}`);
-})
+    ```async function get(url) {
+    fetch(url)
+    .then((res) => res.json())
+    .then((res) => {
+    const ids = res.reduce((sum,i)=>[...sum, i.name], []);
+    localStorage.setItem("id", JSON.stringify(ids))
+    let names = localStorage.getItem('id')
+    console.log(text.innerHTML = `${names}`);
+    })
 
-.catch((err) => console.log(err))
-.finally(() => console.log("FINALLY"))
-}
-get(api) ```
+    .catch((err) => console.log(err))
+    .finally(() => console.log("FINALLY"))
+    }
+    get(api) ```
 
-````
+    ````
 
 ## Education
 
-Online cource PDP ReactJs in Tashkent.
+    Online cource PDP ReactJs in Tashkent.
 
-Online mentor 5-month Javascript and ReactJs.
+    Online mentor 5-month Javascript and ReactJs.
 
-Selfstudy on youtube, udemy, codeacademy on front-end.
+    Selfstudy on youtube, udemy, codeacademy on front-end.
 
 ## Language
 
-English level A2 - Elementry.
+    English level A2 - Elementry.
 
-Russian I speak Russian fluently.
+    Russian I speak Russian fluently.
